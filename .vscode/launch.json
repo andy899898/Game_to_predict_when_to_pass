@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "g",
+            "request": "launch",
+            "mainClass": "g",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "game",
+            "request": "launch",
+            "mainClass": "game",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "pass_game",
+            "request": "launch",
+            "mainClass": "pass_game",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "sq",
+            "request": "launch",
+            "mainClass": "sq",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Mul",
+            "request": "launch",
+            "mainClass": "Mul",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "print_odd_no",
+            "request": "launch",
+            "mainClass": "print_odd_no",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "print_even_no",
+            "request": "launch",
+            "mainClass": "print_even_no",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "print_10_to_1",
+            "request": "launch",
+            "mainClass": "print_10_to_1",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Print_1_to_10",
+            "request": "launch",
+            "mainClass": "Print_1_to_10",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Total_scores",
+            "request": "launch",
+            "mainClass": "Total_scores",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Find_final_BAlance",
+            "request": "launch",
+            "mainClass": "Find_final_BAlance",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Leap_year",
+            "request": "launch",
+            "mainClass": "Leap_year",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "days_in_month",
+            "request": "launch",
+            "mainClass": "days_in_month",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Rank",
+            "request": "launch",
+            "mainClass": "Rank",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Check_positive_or_negative_or_zero",
+            "request": "launch",
+            "mainClass": "Check_positive_or_negative_or_zero",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "percentage",
+            "request": "launch",
+            "mainClass": "percentage",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Cal_gross_salary",
+            "request": "launch",
+            "mainClass": "Cal_gross_salary",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "BMI",
+            "request": "launch",
+            "mainClass": "BMI",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "convert_m_to_cm",
+            "request": "launch",
+            "mainClass": "convert_m_to_cm",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "positive_or_negative",
+            "request": "launch",
+            "mainClass": "positive_or_negative",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "salary_after_deduction",
+            "request": "launch",
+            "mainClass": "salary_after_deduction",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "compoud_intrest",
+            "request": "launch",
+            "mainClass": "compoud_intrest",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "farenhiet_to_celcius",
+            "request": "launch",
+            "mainClass": "farenhiet_to_celcius",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "check_even_or_odd",
+            "request": "launch",
+            "mainClass": "check_even_or_odd",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "swap_using_third_var",
+            "request": "launch",
+            "mainClass": "swap_using_third_var",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Sum_diff_mul_rem",
+            "request": "launch",
+            "mainClass": "Sum_diff_mul_rem",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Div_of_two_no",
+            "request": "launch",
+            "mainClass": "Div_of_two_no",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "left_shift_opeartor",
+            "request": "launch",
+            "mainClass": "left_shift_opeartor",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Not_operator",
+            "request": "launch",
+            "mainClass": "Not_operator",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "printing_precise_value",
+            "request": "launch",
+            "mainClass": "printing_precise_value",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "check_leap_year",
+            "request": "launch",
+            "mainClass": "check_leap_year",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Largest_of_two_no",
+            "request": "launch",
+            "mainClass": "Largest_of_two_no",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "check_no_is_postive_or_negative",
+            "request": "launch",
+            "mainClass": "check_no_is_postive_or_negative",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "farenhiet_to_celscius",
+            "request": "launch",
+            "mainClass": "farenhiet_to_celscius",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "celcius_to_farenhiet",
+            "request": "launch",
+            "mainClass": "celcius_to_farenhiet",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "swap_two_no",
+            "request": "launch",
+            "mainClass": "swap_two_no",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Bitwise_xor",
+            "request": "launch",
+            "mainClass": "Bitwise_xor",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Bitwise_and",
+            "request": "launch",
+            "mainClass": "Bitwise_and",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Bitwise_or",
+            "request": "launch",
+            "mainClass": "Bitwise_or",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "replace",
+            "request": "launch",
+            "mainClass": "String.replace",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Char",
+            "request": "launch",
+            "mainClass": "String.Char",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "String.Strings",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Types",
+            "request": "launch",
+            "mainClass": "Types",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_9d40dbaf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
